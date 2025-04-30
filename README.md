@@ -1,7 +1,4 @@
-# -Adivina-el-Número-en-PSeInt-
-
-# 🎯 Adivina el Número - Juego en PSeInt
-
+# 🎯 -Adivina-el-Número-en-PSeInt
 **Adivina el Número** es un mini juego hecho en el lenguaje de pseudocódigo con **PSeInt**, ideal para quienes están empezando en la programación. El objetivo es adivinar un número secreto entre 1 y 100 en un máximo de 7 intentos, con pistas en cada intento.
 
 ## 🕹️ ¿Cómo se juega?
